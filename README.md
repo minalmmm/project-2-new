@@ -20,6 +20,8 @@ Data may need to be formatted to meet the requirements of the analysis.
 Missing values can cause problems with analysis, so it’s important to handle them appropriately. 
 ## Removal of all Above Unwanted Observations
 This includes deleting duplicate/ redundant or irrelevant values from your dataset. Duplicate observations most frequently arise during data collection and Irrelevant observations are those that don’t actually fit the specific problem. 
+## Data Visualization with Python
+Data visualization provides a good, organized pictorial representation of the data which makes it easier to understand, observe, analyze.
 ## Advantages of Data Cleaning in Machine Learning:
 Improved model performance: Removal of errors, inconsistencies, and irrelevant data, helps the model to better learn from the data.
 Increased accuracy: Helps ensure that the data is accurate, consistent, and free of errors.
